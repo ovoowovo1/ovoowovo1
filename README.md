@@ -18,10 +18,13 @@ React, Vite, TypeScript, JavaScript, HTML, CSS, Tailwind CSS
 Node.js, Express.js, Python, Flask, FastAPI, Java, JSP, Servlet, REST API
 
 ### Mobile
-Android Studio, Java
+Android(Java)
+
+### Desktop / Software Development
+C#, Visual Basic, Windows Application Development
 
 ### Database
 MySQL, PostgreSQL, Neo4j
 
 ### Tools
-GitHub, Postman, Visual Studio Code, Visual Studio
+GitHub, Postman, Visual Studio Code, Visual Studio, Android Studio
