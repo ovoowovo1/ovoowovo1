@@ -8,14 +8,14 @@ I enjoy building practical software projects, including web applications, mobile
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,ts,js,html,css,tailwind,nodejs,express,python,flask,fastapi,java,androidstudio,mysql,postgres,github,postman,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=react,vite,ts,js,html,css,tailwind,nodejs,express,python,flask,fastapi,java,androidstudio,php,mysql,postgres,github,postman,vscode,visualstudio" />
 </p>
 
 ### Frontend
 React, Vite, TypeScript, JavaScript, HTML, CSS, Tailwind CSS
 
 ### Backend
-Node.js, Express.js, Python, Flask, FastAPI, Java, JSP, Servlet, REST API
+Node.js, Express.js, Python, Flask, FastAPI, Java, JSP, Servlet, PHP, REST API
 
 ### Mobile
 Android(Java)
